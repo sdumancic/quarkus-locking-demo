@@ -1,0 +1,2 @@
+GET http://localhost:8080/dealer-codes/dealers/123?year=2024
+Accept: application/json
